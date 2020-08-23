@@ -1,3 +1,4 @@
+heroku create --buildpack https://github.com/heroku/heroku-buildpack-php.git
 <!DOCTYPE html>
 <html lang="en">
 <head>
